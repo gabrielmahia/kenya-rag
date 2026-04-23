@@ -2,7 +2,7 @@
 
 > Retrieval-augmented generation over Kenya's civic datasets. Ask questions about parliament records, county budgets, SACCO data, and constitutional rights — and get grounded, cited answers.
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![Built on LlamaIndex](https://img.shields.io/badge/Built%20on-LlamaIndex-purple)](https://llamaindex.ai)
 
@@ -93,5 +93,5 @@ Dataset DOI: `10.34740/kaggle/dsv/15473045` / `10.57967/hf/8223`
 ## IP & Collaboration
 
 © 2026 Gabriel Mahia · [contact@aikungfu.dev](mailto:contact@aikungfu.dev)
-License: CC BY-NC-ND 4.0 — share with attribution, no commercial use, no derivatives.
+License: MIT — share with attribution, no commercial use, no derivatives.
 Not affiliated with Parliament of Kenya, Controller of Budget, or SASRA.
